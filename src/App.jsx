@@ -20,7 +20,7 @@ import QuizResults from "./pages/Quizzes/Quizresults";
 import ProfilePage from "./pages/Profile/ProfilePage";
 
 const App = () => {
-  const isAuthenticated = true;
+  const isAuthenticated = false;
   const loading = false;
 
   if (loading) {
